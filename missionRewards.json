@@ -17426,8 +17426,8 @@
     },
     {
         "extra": [
-            "Variant",
-            "Extra"
+            "Extra",
+            "Variant"
         ],
         "missionType": "Conclave",
         "node": "Cephalon Capture",
@@ -18472,8 +18472,8 @@
     },
     {
         "extra": [
-            "Variant",
-            "Extra"
+            "Extra",
+            "Variant"
         ],
         "missionType": "Conclave",
         "node": "Team Annihilation",
@@ -19271,8 +19271,8 @@
     },
     {
         "extra": [
-            "Variant",
-            "Extra"
+            "Extra",
+            "Variant"
         ],
         "missionType": "Conclave",
         "node": "Annihilation",
