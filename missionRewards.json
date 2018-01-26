@@ -8157,21 +8157,21 @@
         "planet": "Mars",
         "rewards": [
             {
-                "name": "Frost Neuroptics Blueprint",
+                "name": "Excalibur Neuroptics Blueprint",
                 "rarity": {
                     "name": "Common",
                     "value": "38.72%"
                 }
             },
             {
-                "name": "Frost Chassis Blueprint",
+                "name": "Excalibur Chassis Blueprint",
                 "rarity": {
                     "name": "Common",
                     "value": "38.72%"
                 }
             },
             {
-                "name": "Frost Systems Blueprint",
+                "name": "Excalibur Systems Blueprint",
                 "rarity": {
                     "name": "Uncommon",
                     "value": "22.56%"
@@ -26765,21 +26765,21 @@
         "planet": "Pluto",
         "rewards": [
             {
-                "name": "Excalibur Neuroptics Blueprint",
+                "name": "Trinity Neuroptics Blueprint",
                 "rarity": {
                     "name": "Common",
                     "value": "38.72%"
                 }
             },
             {
-                "name": "Excalibur Chassis Blueprint",
+                "name": "Trinity Chassis Blueprint",
                 "rarity": {
                     "name": "Common",
                     "value": "38.72%"
                 }
             },
             {
-                "name": "Excalibur Systems Blueprint",
+                "name": "Trinity Systems Blueprint",
                 "rarity": {
                     "name": "Uncommon",
                     "value": "22.56%"
@@ -29708,21 +29708,21 @@
         "planet": "Ceres",
         "rewards": [
             {
-                "name": "Trinity Neuroptics Blueprint",
+                "name": "Frost Neuroptics Blueprint",
                 "rarity": {
                     "name": "Common",
                     "value": "38.72%"
                 }
             },
             {
-                "name": "Trinity Chassis Blueprint",
+                "name": "Frost Chassis Blueprint",
                 "rarity": {
                     "name": "Common",
                     "value": "38.72%"
                 }
             },
             {
-                "name": "Trinity Systems Blueprint",
+                "name": "Frost Systems Blueprint",
                 "rarity": {
                     "name": "Uncommon",
                     "value": "22.56%"
