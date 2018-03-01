@@ -13293,168 +13293,162 @@
         "missionType": "Pursuit",
         "node": "Pandora",
         "planet": "Saturn",
-        "rotations": {
-            "A": [
-                {
-                    "name": "Tempered Blade",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.84%"
-                    }
-                },
-                {
-                    "name": "Sudden Impact",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.84%"
-                    }
-                },
-                {
-                    "name": "Poisonous Sting",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.84%"
-                    }
-                },
-                {
-                    "name": "Glacial Edge",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.84%"
-                    }
-                },
-                {
-                    "name": "Galvanized Blade",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.84%"
-                    }
-                },
-                {
-                    "name": "150 Endo",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.84%"
-                    }
-                },
-                {
-                    "name": "Furor",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.84%"
-                    }
-                },
-                {
-                    "name": "50 Endo",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "22.11%"
-                    }
-                },
-                {
-                    "name": "80 Endo",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "2.01%"
-                    }
+        "rewards": [
+            {
+                "name": "Tempered Blade",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
                 }
-            ],
-            "B": [
-                {
-                    "name": "Extend",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "3.76%"
-                    }
-                },
-                {
-                    "name": "Superior Defenses",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "3.76%"
-                    }
-                },
-                {
-                    "name": "Cutting Edge",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "3.76%"
-                    }
-                },
-                {
-                    "name": "System Reroute",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "3.76%"
-                    }
-                },
-                {
-                    "name": "Efficient Transferral",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "3.76%"
-                    }
-                },
-                {
-                    "name": "Blazing Steel",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "3.76%"
-                    }
-                },
-                {
-                    "name": "150 Endo",
-                    "rarity": {
-                        "name": "Very Common",
-                        "value": "77.44%"
-                    }
+            },
+            {
+                "name": "Sudden Impact",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
                 }
-            ],
-            "C": [
-                {
-                    "name": "400 Endo",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "16.67%"
-                    }
-                },
-                {
-                    "name": "Meso N5 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "16.67%"
-                    }
-                },
-                {
-                    "name": "Meso O1 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "16.67%"
-                    }
-                },
-                {
-                    "name": "Meso G1 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "16.67%"
-                    }
-                },
-                {
-                    "name": "Meso H1 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "16.67%"
-                    }
-                },
-                {
-                    "name": "Meso K1 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "16.67%"
-                    }
+            },
+            {
+                "name": "Poisonous Sting",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
                 }
-            ]
-        }
+            },
+            {
+                "name": "Glacial Edge",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            },
+            {
+                "name": "Galvanized Blade",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            },
+            {
+                "name": "150 Endo",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            },
+            {
+                "name": "Furor",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            },
+            {
+                "name": "50 Endo",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "3.16%"
+                }
+            },
+            {
+                "name": "80 Endo",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "2.01%"
+                }
+            },
+            {
+                "name": "Extend",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "3.16%"
+                }
+            },
+            {
+                "name": "Superior Defenses",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "3.16%"
+                }
+            },
+            {
+                "name": "Cutting Edge",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "3.16%"
+                }
+            },
+            {
+                "name": "System Reroute",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "3.16%"
+                }
+            },
+            {
+                "name": "Efficient Transferral",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "3.16%"
+                }
+            },
+            {
+                "name": "Blazing Steel",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "3.16%"
+                }
+            },
+            {
+                "name": "150 Endo",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            },
+            {
+                "name": "400 Endo",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            },
+            {
+                "name": "Meso N5 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            },
+            {
+                "name": "Meso O1 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            },
+            {
+                "name": "Meso G1 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            },
+            {
+                "name": "Meso H1 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            },
+            {
+                "name": "Meso K1 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.42%"
+                }
+            }
+        ]
     },
     {
         "extra": [],
