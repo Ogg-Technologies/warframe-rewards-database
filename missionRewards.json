@@ -42996,13 +42996,6 @@
         "planet": "Void",
         "rewards": [
             {
-                "name": "Lith M2 Relic",
-                "rarity": {
-                    "name": "Uncommon",
-                    "value": "16.67%"
-                }
-            },
-            {
                 "name": "Lith O1 Relic",
                 "rarity": {
                     "name": "Uncommon",
@@ -43032,6 +43025,13 @@
             },
             {
                 "name": "Lith K2 Relic",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "16.67%"
+                }
+            },
+            {
+                "name": "Lith G1 Relic",
                 "rarity": {
                     "name": "Uncommon",
                     "value": "16.67%"
@@ -43046,13 +43046,6 @@
         "planet": "Void",
         "rewards": [
             {
-                "name": "Lith M2 Relic",
-                "rarity": {
-                    "name": "Uncommon",
-                    "value": "16.67%"
-                }
-            },
-            {
                 "name": "Lith O1 Relic",
                 "rarity": {
                     "name": "Uncommon",
@@ -43082,6 +43075,13 @@
             },
             {
                 "name": "Lith K2 Relic",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "16.67%"
+                }
+            },
+            {
+                "name": "Lith G1 Relic",
                 "rarity": {
                     "name": "Uncommon",
                     "value": "16.67%"
@@ -43097,13 +43097,6 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Lith M2 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "16.67%"
-                    }
-                },
-                {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
@@ -43133,6 +43126,13 @@
                 },
                 {
                     "name": "Lith K2 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "16.67%"
+                    }
+                },
+                {
+                    "name": "Lith G1 Relic",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "16.67%"
@@ -43141,21 +43141,7 @@
             ],
             "B": [
                 {
-                    "name": "Lith M2 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "12.91%"
-                    }
-                },
-                {
                     "name": "Meso T1 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "2.26%"
-                    }
-                },
-                {
-                    "name": "Meso B3 Relic",
                     "rarity": {
                         "name": "Rare",
                         "value": "2.26%"
@@ -43247,6 +43233,20 @@
                 },
                 {
                     "name": "Meso M2 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "2.26%"
+                    }
+                },
+                {
+                    "name": "Lith G1 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.91%"
+                    }
+                },
+                {
+                    "name": "Meso F2 Relic",
                     "rarity": {
                         "name": "Rare",
                         "value": "2.26%"
@@ -43255,21 +43255,7 @@
             ],
             "C": [
                 {
-                    "name": "Lith M2 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "6.25%"
-                    }
-                },
-                {
                     "name": "Meso T1 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "6.25%"
-                    }
-                },
-                {
-                    "name": "Meso B3 Relic",
                     "rarity": {
                         "name": "Rare",
                         "value": "6.25%"
@@ -43361,6 +43347,20 @@
                 },
                 {
                     "name": "Meso M2 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "6.25%"
+                    }
+                },
+                {
+                    "name": "Lith G1 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "6.25%"
+                    }
+                },
+                {
+                    "name": "Meso F2 Relic",
                     "rarity": {
                         "name": "Rare",
                         "value": "6.25%"
@@ -43376,21 +43376,7 @@
         "planet": "Void",
         "rewards": [
             {
-                "name": "Lith M2 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "6.25%"
-                }
-            },
-            {
                 "name": "Meso T1 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "6.25%"
-                }
-            },
-            {
-                "name": "Meso B3 Relic",
                 "rarity": {
                     "name": "Rare",
                     "value": "6.25%"
@@ -43482,6 +43468,20 @@
             },
             {
                 "name": "Meso M2 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "6.25%"
+                }
+            },
+            {
+                "name": "Lith G1 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "6.25%"
+                }
+            },
+            {
+                "name": "Meso F2 Relic",
                 "rarity": {
                     "name": "Rare",
                     "value": "6.25%"
@@ -43496,21 +43496,7 @@
         "planet": "Void",
         "rewards": [
             {
-                "name": "Lith M2 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "6.25%"
-                }
-            },
-            {
                 "name": "Meso T1 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "6.25%"
-                }
-            },
-            {
-                "name": "Meso B3 Relic",
                 "rarity": {
                     "name": "Rare",
                     "value": "6.25%"
@@ -43602,6 +43588,20 @@
             },
             {
                 "name": "Meso M2 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "6.25%"
+                }
+            },
+            {
+                "name": "Lith G1 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "6.25%"
+                }
+            },
+            {
+                "name": "Meso F2 Relic",
                 "rarity": {
                     "name": "Rare",
                     "value": "6.25%"
@@ -43799,21 +43799,7 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Lith M2 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "12.91%"
-                    }
-                },
-                {
                     "name": "Meso T1 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "2.26%"
-                    }
-                },
-                {
-                    "name": "Meso B3 Relic",
                     "rarity": {
                         "name": "Rare",
                         "value": "2.26%"
@@ -43909,6 +43895,20 @@
                         "name": "Rare",
                         "value": "2.26%"
                     }
+                },
+                {
+                    "name": "Lith G1 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.91%"
+                    }
+                },
+                {
+                    "name": "Meso F2 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "2.26%"
+                    }
                 }
             ],
             "B": [
@@ -43920,21 +43920,7 @@
                     }
                 },
                 {
-                    "name": "Meso B3 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "7.74%"
-                    }
-                },
-                {
                     "name": "Neo N8 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "3.22%"
-                    }
-                },
-                {
-                    "name": "Neo N9 Relic",
                     "rarity": {
                         "name": "Rare",
                         "value": "3.22%"
@@ -44026,6 +44012,20 @@
                 },
                 {
                     "name": "Neo S9 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "3.22%"
+                    }
+                },
+                {
+                    "name": "Meso F2 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.74%"
+                    }
+                },
+                {
+                    "name": "Neo S5 Relic",
                     "rarity": {
                         "name": "Rare",
                         "value": "3.22%"
@@ -44041,21 +44041,7 @@
                     }
                 },
                 {
-                    "name": "Meso B3 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "5.88%"
-                    }
-                },
-                {
                     "name": "Neo N8 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "5.88%"
-                    }
-                },
-                {
-                    "name": "Neo N9 Relic",
                     "rarity": {
                         "name": "Rare",
                         "value": "5.88%"
@@ -44147,6 +44133,20 @@
                 },
                 {
                     "name": "Neo S9 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "5.88%"
+                    }
+                },
+                {
+                    "name": "Meso F2 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "5.88%"
+                    }
+                },
+                {
+                    "name": "Neo S5 Relic",
                     "rarity": {
                         "name": "Rare",
                         "value": "5.88%"
@@ -44169,21 +44169,7 @@
                 }
             },
             {
-                "name": "Meso B3 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "5.88%"
-                }
-            },
-            {
                 "name": "Neo N8 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "5.88%"
-                }
-            },
-            {
-                "name": "Neo N9 Relic",
                 "rarity": {
                     "name": "Rare",
                     "value": "5.88%"
@@ -44275,6 +44261,20 @@
             },
             {
                 "name": "Neo S9 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.88%"
+                }
+            },
+            {
+                "name": "Meso F2 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.88%"
+                }
+            },
+            {
+                "name": "Neo S5 Relic",
                 "rarity": {
                     "name": "Rare",
                     "value": "5.88%"
@@ -44296,21 +44296,7 @@
                 }
             },
             {
-                "name": "Meso B3 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "5.88%"
-                }
-            },
-            {
                 "name": "Neo N8 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "5.88%"
-                }
-            },
-            {
-                "name": "Neo N9 Relic",
                 "rarity": {
                     "name": "Rare",
                     "value": "5.88%"
@@ -44402,6 +44388,20 @@
             },
             {
                 "name": "Neo S9 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.88%"
+                }
+            },
+            {
+                "name": "Meso F2 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "5.88%"
+                }
+            },
+            {
+                "name": "Neo S5 Relic",
                 "rarity": {
                     "name": "Rare",
                     "value": "5.88%"
@@ -44424,21 +44424,7 @@
                     }
                 },
                 {
-                    "name": "Meso B3 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "5.88%"
-                    }
-                },
-                {
                     "name": "Neo N8 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "5.88%"
-                    }
-                },
-                {
-                    "name": "Neo N9 Relic",
                     "rarity": {
                         "name": "Rare",
                         "value": "5.88%"
@@ -44534,18 +44520,25 @@
                         "name": "Rare",
                         "value": "5.88%"
                     }
+                },
+                {
+                    "name": "Meso F2 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "5.88%"
+                    }
+                },
+                {
+                    "name": "Neo S5 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "5.88%"
+                    }
                 }
             ],
             "B": [
                 {
                     "name": "Neo N8 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
-                    "name": "Neo N9 Relic",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "14.29%"
@@ -44585,6 +44578,13 @@
                         "name": "Uncommon",
                         "value": "14.29%"
                     }
+                },
+                {
+                    "name": "Neo S5 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "14.29%"
+                    }
                 }
             ],
             "C": [
@@ -44596,31 +44596,17 @@
                     }
                 },
                 {
-                    "name": "Neo N9 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "11.06%"
-                    }
-                },
-                {
                     "name": "Axi L2 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "2.26%"
+                        "value": "2.51%"
                     }
                 },
                 {
                     "name": "Axi A4 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "2.26%"
-                    }
-                },
-                {
-                    "name": "Axi S4 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "2.26%"
+                        "value": "2.51%"
                     }
                 },
                 {
@@ -44641,21 +44627,14 @@
                     "name": "Axi K4 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "2.26%"
+                        "value": "2.51%"
                     }
                 },
                 {
                     "name": "Axi O4 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "2.26%"
-                    }
-                },
-                {
-                    "name": "Axi A5 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "2.26%"
+                        "value": "2.51%"
                     }
                 },
                 {
@@ -44683,28 +44662,42 @@
                     "name": "Axi R2 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "2.26%"
+                        "value": "2.51%"
                     }
                 },
                 {
                     "name": "Axi H4 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "2.26%"
+                        "value": "2.51%"
                     }
                 },
                 {
                     "name": "Axi L3 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "2.26%"
+                        "value": "2.51%"
                     }
                 },
                 {
                     "name": "Axi C4 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "2.26%"
+                        "value": "2.51%"
+                    }
+                },
+                {
+                    "name": "Neo S5 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.06%"
+                    }
+                },
+                {
+                    "name": "Axi E1 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "2.51%"
                     }
                 }
             ]
@@ -44725,13 +44718,6 @@
                     }
                 },
                 {
-                    "name": "Neo N9 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "Neo G1 Relic",
                     "rarity": {
                         "name": "Uncommon",
@@ -44761,6 +44747,13 @@
                 },
                 {
                     "name": "Neo S9 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "14.29%"
+                    }
+                },
+                {
+                    "name": "Neo S5 Relic",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "14.29%"
@@ -44776,13 +44769,6 @@
                     }
                 },
                 {
-                    "name": "Neo N9 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "Neo G1 Relic",
                     "rarity": {
                         "name": "Uncommon",
@@ -44816,6 +44802,13 @@
                         "name": "Uncommon",
                         "value": "14.29%"
                     }
+                },
+                {
+                    "name": "Neo S5 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "14.29%"
+                    }
                 }
             ],
             "C": [
@@ -44823,70 +44816,63 @@
                     "name": "Axi L2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi A4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
-                    "name": "Axi S4 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi K4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi O4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
-                    "name": "Axi A5 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi R2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi H4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi L3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
+                    }
+                },
+                {
+                    "name": "Axi E1 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
                     }
                 }
             ]
@@ -44902,119 +44888,112 @@
                 "name": "Neo N8 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
-                }
-            },
-            {
-                "name": "Neo N9 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi L2 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi A4 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
-                }
-            },
-            {
-                "name": "Axi S4 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Neo G1 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Neo A2 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi K4 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi O4 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
-                }
-            },
-            {
-                "name": "Axi A5 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Neo Z2 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Neo M2 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Neo S9 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi R2 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi H4 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi L3 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi C4 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
+                }
+            },
+            {
+                "name": "Neo S5 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "6.25%"
+                }
+            },
+            {
+                "name": "Axi E1 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "6.25%"
                 }
             }
         ]
@@ -45029,119 +45008,112 @@
                 "name": "Neo N8 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
-                }
-            },
-            {
-                "name": "Neo N9 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi L2 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi A4 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
-                }
-            },
-            {
-                "name": "Axi S4 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Neo G1 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Neo A2 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi K4 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi O4 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
-                }
-            },
-            {
-                "name": "Axi A5 Relic",
-                "rarity": {
-                    "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Neo Z2 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Neo M2 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Neo S9 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi R2 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi H4 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi L3 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
                 }
             },
             {
                 "name": "Axi C4 Relic",
                 "rarity": {
                     "name": "Rare",
-                    "value": "5.88%"
+                    "value": "6.25%"
+                }
+            },
+            {
+                "name": "Neo S5 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "6.25%"
+                }
+            },
+            {
+                "name": "Axi E1 Relic",
+                "rarity": {
+                    "name": "Rare",
+                    "value": "6.25%"
                 }
             }
         ]
@@ -45322,13 +45294,6 @@
                     }
                 },
                 {
-                    "name": "Neo N9 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "Neo G1 Relic",
                     "rarity": {
                         "name": "Uncommon",
@@ -45358,6 +45323,13 @@
                 },
                 {
                     "name": "Neo S9 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "14.29%"
+                    }
+                },
+                {
+                    "name": "Neo S5 Relic",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "14.29%"
@@ -45373,13 +45345,6 @@
                     }
                 },
                 {
-                    "name": "Neo N9 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "Neo G1 Relic",
                     "rarity": {
                         "name": "Uncommon",
@@ -45413,6 +45378,13 @@
                         "name": "Uncommon",
                         "value": "14.29%"
                     }
+                },
+                {
+                    "name": "Neo S5 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "14.29%"
+                    }
                 }
             ],
             "C": [
@@ -45420,70 +45392,63 @@
                     "name": "Axi L2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi A4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
-                    "name": "Axi S4 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi K4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi O4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
-                    "name": "Axi A5 Relic",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi R2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi H4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi L3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Axi C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
+                    }
+                },
+                {
+                    "name": "Axi E1 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
                     }
                 }
             ]
