@@ -7,52 +7,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,000 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "2,000 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "15 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -224,73 +217,66 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Pressure Point",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Ammo Drum",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 }
             ],
@@ -1121,63 +1107,56 @@
                     "name": "Vitality",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
-                    }
-                },
-                {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 }
             ],
@@ -1398,52 +1377,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflection",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflex Guard",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Parry",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -1573,52 +1545,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,000 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "2,000 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "15 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -1988,52 +1953,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflection",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflex Guard",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Parry",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -2166,63 +2124,56 @@
                     "name": "Vitality",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
-                    }
-                },
-                {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 }
             ],
@@ -2498,52 +2449,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflection",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflex Guard",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Parry",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -2975,73 +2919,66 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Pressure Point",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Ammo Drum",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 }
             ],
@@ -4146,52 +4083,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflection",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflex Guard",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Parry",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -4564,73 +4494,66 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Pressure Point",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Ammo Drum",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 }
             ],
@@ -4847,63 +4770,56 @@
                     "name": "Vitality",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
-                    }
-                },
-                {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 }
             ],
@@ -6143,52 +6059,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,000 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "2,000 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "15 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -6360,73 +6269,66 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Pressure Point",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Ammo Drum",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 }
             ],
@@ -6643,63 +6545,56 @@
                     "name": "Vitality",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
-                    }
-                },
-                {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 }
             ],
@@ -6920,52 +6815,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflection",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflex Guard",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Parry",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -8567,6 +8455,281 @@
                 }
             }
         ]
+    },
+    {
+        "extra": [
+            "Event"
+        ],
+        "missionType": "Survival",
+        "node": "Ganymede",
+        "planet": "Jupiter",
+        "rotations": {
+            "A": [
+                {
+                    "name": "Magazine Warp",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
+                    }
+                },
+                {
+                    "name": "Trick Mag",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
+                    }
+                },
+                {
+                    "name": "Pressure Point",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
+                    }
+                },
+                {
+                    "name": "Ammo Drum",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
+                    }
+                },
+                {
+                    "name": "Lith O1 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
+                    }
+                },
+                {
+                    "name": "Lith C4 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
+                    }
+                },
+                {
+                    "name": "Lith M3 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
+                    }
+                },
+                {
+                    "name": "Lith B6 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
+                    }
+                },
+                {
+                    "name": "Lith K2 Relic",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.11%"
+                    }
+                }
+            ],
+            "B": [
+                {
+                    "name": "Reflex Coil",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Cryo Rounds",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Hell's Chamber",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Shocking Touch",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "50 Endo",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso T1 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso M2 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso S8 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso T3 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso D3 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso R1 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso P1 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso Z2 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso A1 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                }
+            ],
+            "C": [
+                {
+                    "name": "Metal Auger",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Ravage",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Continuity",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Master Thief",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "80 Endo",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso T1 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso S8 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso T3 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso D3 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso R1 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso P1 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso Z2 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso A1 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Meso M2 Relic",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "7.14%"
+                    }
+                }
+            ]
+        }
     },
     {
         "extra": [],
@@ -29111,73 +29274,66 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Pressure Point",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Ammo Drum",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 }
             ],
@@ -29532,52 +29688,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflection",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflex Guard",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Parry",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -29788,73 +29937,66 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Pressure Point",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Ammo Drum",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 }
             ],
@@ -30071,63 +30213,56 @@
                     "name": "Vitality",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
-                    }
-                },
-                {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "11.11%"
+                        "value": "12.50%"
                     }
                 }
             ],
@@ -30350,73 +30485,66 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Pressure Point",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Ammo Drum",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 }
             ],
@@ -45579,52 +45707,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflection",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflex Guard",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Parry",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -45754,52 +45875,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,000 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "2,000 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "15 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -46086,73 +46200,66 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Pressure Point",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Ammo Drum",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 }
             ],
@@ -46567,73 +46674,66 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
                     "name": "Magazine Warp",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Trick Mag",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Pressure Point",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Ammo Drum",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith O1 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith M3 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.11%"
                     }
                 }
             ],
@@ -46847,52 +46947,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflection",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Reflex Guard",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "Parry",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -47358,52 +47451,45 @@
         "rotations": {
             "A": [
                 {
-                    "name": "Synthula",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "14.29%"
-                    }
-                },
-                {
                     "name": "1,000 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "1,500 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "2,000 Credits Cache",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "15 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "50 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 },
                 {
                     "name": "80 Endo",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "14.29%"
+                        "value": "16.67%"
                     }
                 }
             ],
@@ -51787,8 +51873,8 @@
                 {
                     "name": "Braton Vandal Blueprint",
                     "rarity": {
-                        "name": "Rare",
-                        "value": "2.01%"
+                        "name": "Ultra Rare",
+                        "value": "1.01%"
                     }
                 },
                 {
@@ -51813,10 +51899,10 @@
                     }
                 },
                 {
-                    "name": "Axi C4 Relic (Radiant)",
+                    "name": "Blazing Step Ephemera Blueprint",
                     "rarity": {
                         "name": "Ultra Rare",
-                        "value": "1.84%"
+                        "value": "1.01%"
                     }
                 },
                 {
@@ -51884,6 +51970,13 @@
                 },
                 {
                     "name": "Axi L3 Relic (Radiant)",
+                    "rarity": {
+                        "name": "Ultra Rare",
+                        "value": "1.84%"
+                    }
+                },
+                {
+                    "name": "Axi C4 Relic (Radiant)",
                     "rarity": {
                         "name": "Ultra Rare",
                         "value": "1.84%"
