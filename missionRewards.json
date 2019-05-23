@@ -8366,254 +8366,231 @@
         ]
     },
     {
-        "extra": [
-            "Event"
-        ],
-        "missionType": "Survival",
+        "extra": [],
+        "missionType": "Disruption",
         "node": "Ganymede",
         "planet": "Jupiter",
         "rotations": {
             "A": [
                 {
-                    "name": "Magazine Warp",
+                    "name": "2X Hexenon",
                     "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
-                    "name": "Trick Mag",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
-                    "name": "Pressure Point",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
-                    }
-                },
-                {
-                    "name": "Ammo Drum",
-                    "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "19.23%"
                     }
                 },
                 {
                     "name": "Lith C4 Relic",
                     "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
+                        "name": "Rare",
+                        "value": "7.69%"
                     }
                 },
                 {
                     "name": "Lith B6 Relic",
                     "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
+                        "name": "Rare",
+                        "value": "7.69%"
                     }
                 },
                 {
                     "name": "Lith K2 Relic",
                     "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
+                        "name": "Rare",
+                        "value": "7.69%"
                     }
                 },
                 {
                     "name": "Lith M4 Relic",
                     "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
+                        "name": "Rare",
+                        "value": "7.69%"
                     }
                 },
                 {
                     "name": "Lith A3 Relic",
                     "rarity": {
-                        "name": "Uncommon",
-                        "value": "10.00%"
+                        "name": "Rare",
+                        "value": "7.69%"
                     }
                 },
                 {
                     "name": "Lith P2 Relic",
                     "rarity": {
+                        "name": "Rare",
+                        "value": "7.69%"
+                    }
+                },
+                {
+                    "name": "Proton Pulse",
+                    "rarity": {
                         "name": "Uncommon",
-                        "value": "10.00%"
+                        "value": "11.54%"
+                    }
+                },
+                {
+                    "name": "Motus Signal",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.54%"
+                    }
+                },
+                {
+                    "name": "Aero Agility",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.54%"
                     }
                 }
             ],
             "B": [
                 {
-                    "name": "Reflex Coil",
+                    "name": "4X Hexenon",
                     "rarity": {
-                        "name": "Rare",
-                        "value": "8.33%"
-                    }
-                },
-                {
-                    "name": "Cryo Rounds",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "8.33%"
-                    }
-                },
-                {
-                    "name": "Hell's Chamber",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "8.33%"
-                    }
-                },
-                {
-                    "name": "Shocking Touch",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "8.33%"
-                    }
-                },
-                {
-                    "name": "50 Endo",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "8.33%"
+                        "name": "Uncommon",
+                        "value": "17.86%"
                     }
                 },
                 {
                     "name": "Meso T1 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "7.14%"
                     }
                 },
                 {
                     "name": "Meso T3 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "7.14%"
                     }
                 },
                 {
                     "name": "Meso D3 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "7.14%"
                     }
                 },
                 {
                     "name": "Meso R1 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "7.14%"
                     }
                 },
                 {
                     "name": "Meso M3 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "7.14%"
                     }
                 },
                 {
                     "name": "Meso Z3 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "7.14%"
                     }
                 },
                 {
                     "name": "Meso E2 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "7.14%"
+                    }
+                },
+                {
+                    "name": "Proton Jet",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "10.71%"
+                    }
+                },
+                {
+                    "name": "Motus Impact",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "10.71%"
+                    }
+                },
+                {
+                    "name": "Aero Vantage",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "10.71%"
                     }
                 }
             ],
             "C": [
                 {
-                    "name": "Metal Auger",
+                    "name": "6X Hexenon",
                     "rarity": {
-                        "name": "Rare",
-                        "value": "8.33%"
+                        "name": "Uncommon",
+                        "value": "28.57%"
                     }
                 },
                 {
-                    "name": "Ravage",
+                    "name": "Neo G1 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "9.52%"
                     }
                 },
                 {
-                    "name": "Continuity",
+                    "name": "Neo A2 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "9.52%"
                     }
                 },
                 {
-                    "name": "Master Thief",
+                    "name": "Neo Z2 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "9.52%"
                     }
                 },
                 {
-                    "name": "80 Endo",
+                    "name": "Neo M2 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "9.52%"
                     }
                 },
                 {
-                    "name": "Meso T1 Relic",
+                    "name": "Neo S11 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "9.52%"
                     }
                 },
                 {
-                    "name": "Meso T3 Relic",
+                    "name": "Neo N10 Relic",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "9.52%"
                     }
                 },
                 {
-                    "name": "Meso D3 Relic",
+                    "name": "Proton Snap",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "4.76%"
                     }
                 },
                 {
-                    "name": "Meso R1 Relic",
+                    "name": "Motus Setup",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
+                        "value": "4.76%"
                     }
                 },
                 {
-                    "name": "Meso M3 Relic",
+                    "name": "Aero Periphery",
                     "rarity": {
                         "name": "Rare",
-                        "value": "8.33%"
-                    }
-                },
-                {
-                    "name": "Meso Z3 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "8.33%"
-                    }
-                },
-                {
-                    "name": "Meso E2 Relic",
-                    "rarity": {
-                        "name": "Rare",
-                        "value": "8.33%"
+                        "value": "4.76%"
                     }
                 }
             ]
@@ -9909,6 +9886,202 @@
     },
     {
         "extra": [],
+        "missionType": "Caches",
+        "node": "Carpo",
+        "planet": "Jupiter",
+        "rotations": {
+            "A": [
+                {
+                    "name": "2,500 Credits Cache",
+                    "rarity": {
+                        "name": "Common",
+                        "value": "33.33%"
+                    }
+                },
+                {
+                    "name": "3,000 Credits Cache",
+                    "rarity": {
+                        "name": "Common",
+                        "value": "33.33%"
+                    }
+                },
+                {
+                    "name": "4,000 Credits Cache",
+                    "rarity": {
+                        "name": "Common",
+                        "value": "33.33%"
+                    }
+                }
+            ],
+            "B": [
+                {
+                    "name": "75 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "150 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "80 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "300X Polymer Bundle",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "350X Rubedo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "300X Plastids",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "250 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.06%"
+                    }
+                },
+                {
+                    "name": "240 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.06%"
+                    }
+                },
+                {
+                    "name": "400 Endo",
+                    "rarity": {
+                        "name": "Ultra Rare",
+                        "value": "1.01%"
+                    }
+                },
+                {
+                    "name": "640 Endo",
+                    "rarity": {
+                        "name": "Ultra Rare",
+                        "value": "1.01%"
+                    }
+                }
+            ],
+            "C": [
+                {
+                    "name": "80 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "15.10%"
+                    }
+                },
+                {
+                    "name": "150 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "15.10%"
+                    }
+                },
+                {
+                    "name": "Orokin Cell",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "15.10%"
+                    }
+                },
+                {
+                    "name": "Gallium",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "15.10%"
+                    }
+                },
+                {
+                    "name": "Neurodes",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "15.10%"
+                    }
+                },
+                {
+                    "name": "240 Endo",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "4.40%"
+                    }
+                },
+                {
+                    "name": "2X Orokin Cell",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "4.40%"
+                    }
+                },
+                {
+                    "name": "2X Gallium",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "4.40%"
+                    }
+                },
+                {
+                    "name": "2X Neurodes",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "4.40%"
+                    }
+                },
+                {
+                    "name": "Tellurium",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "4.40%"
+                    }
+                },
+                {
+                    "name": "Argon Crystal",
+                    "rarity": {
+                        "name": "Ultra Rare",
+                        "value": "1.00%"
+                    }
+                },
+                {
+                    "name": "Nitain Extract",
+                    "rarity": {
+                        "name": "Ultra Rare",
+                        "value": "1.00%"
+                    }
+                },
+                {
+                    "name": "Xiphos Engines Blueprint",
+                    "rarity": {
+                        "name": "Legendary",
+                        "value": "0.50%"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "extra": [],
         "missionType": "Assassination",
         "node": "Themisto",
         "planet": "Jupiter",
@@ -9932,6 +10105,87 @@
                 "rarity": {
                     "name": "Uncommon",
                     "value": "22.56%"
+                }
+            }
+        ]
+    },
+    {
+        "extra": [],
+        "missionType": "Assassination",
+        "node": "The Ropalolyst",
+        "planet": "Jupiter",
+        "rewards": [
+            {
+                "name": "Amalgam Furax Body Count",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "20.00%"
+                }
+            },
+            {
+                "name": "Amalgam Ripkas True Steel",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "20.00%"
+                }
+            },
+            {
+                "name": "Amalgam Argonak Metal Auger",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "20.00%"
+                }
+            },
+            {
+                "name": "Amalgam Daikyu Target Acquired",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "20.00%"
+                }
+            },
+            {
+                "name": "Amalgam Javlok Magazine Warp",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "20.00%"
+                }
+            }
+        ]
+    },
+    {
+        "extra": [
+            "Extra"
+        ],
+        "missionType": "Assassination",
+        "node": "The Ropalolyst",
+        "planet": "Jupiter",
+        "rewards": [
+            {
+                "name": "Wisp Blueprint",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "22.56%"
+                }
+            },
+            {
+                "name": "Wisp Chassis Blueprint",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "25.81%"
+                }
+            },
+            {
+                "name": "Wisp Neuroptics Blueprint",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "25.81%"
+                }
+            },
+            {
+                "name": "Wisp Systems Blueprint",
+                "rarity": {
+                    "name": "Uncommon",
+                    "value": "25.81%"
                 }
             }
         ]
@@ -29280,6 +29534,202 @@
                 }
             }
         ]
+    },
+    {
+        "extra": [],
+        "missionType": "Caches",
+        "node": "Ker",
+        "planet": "Ceres",
+        "rotations": {
+            "A": [
+                {
+                    "name": "2,500 Credits Cache",
+                    "rarity": {
+                        "name": "Common",
+                        "value": "33.33%"
+                    }
+                },
+                {
+                    "name": "3,000 Credits Cache",
+                    "rarity": {
+                        "name": "Common",
+                        "value": "33.33%"
+                    }
+                },
+                {
+                    "name": "4,000 Credits Cache",
+                    "rarity": {
+                        "name": "Common",
+                        "value": "33.33%"
+                    }
+                }
+            ],
+            "B": [
+                {
+                    "name": "75 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "150 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "80 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "300X Polymer Bundle",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "350X Rubedo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "300X Plastids",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "12.65%"
+                    }
+                },
+                {
+                    "name": "250 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.06%"
+                    }
+                },
+                {
+                    "name": "240 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "11.06%"
+                    }
+                },
+                {
+                    "name": "400 Endo",
+                    "rarity": {
+                        "name": "Ultra Rare",
+                        "value": "1.01%"
+                    }
+                },
+                {
+                    "name": "640 Endo",
+                    "rarity": {
+                        "name": "Ultra Rare",
+                        "value": "1.01%"
+                    }
+                }
+            ],
+            "C": [
+                {
+                    "name": "80 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "15.10%"
+                    }
+                },
+                {
+                    "name": "150 Endo",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "15.10%"
+                    }
+                },
+                {
+                    "name": "Orokin Cell",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "15.10%"
+                    }
+                },
+                {
+                    "name": "Gallium",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "15.10%"
+                    }
+                },
+                {
+                    "name": "Neurodes",
+                    "rarity": {
+                        "name": "Uncommon",
+                        "value": "15.10%"
+                    }
+                },
+                {
+                    "name": "240 Endo",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "4.40%"
+                    }
+                },
+                {
+                    "name": "2X Orokin Cell",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "4.40%"
+                    }
+                },
+                {
+                    "name": "2X Gallium",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "4.40%"
+                    }
+                },
+                {
+                    "name": "2X Neurodes",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "4.40%"
+                    }
+                },
+                {
+                    "name": "Tellurium",
+                    "rarity": {
+                        "name": "Rare",
+                        "value": "4.40%"
+                    }
+                },
+                {
+                    "name": "Argon Crystal",
+                    "rarity": {
+                        "name": "Ultra Rare",
+                        "value": "1.00%"
+                    }
+                },
+                {
+                    "name": "Nitain Extract",
+                    "rarity": {
+                        "name": "Ultra Rare",
+                        "value": "1.00%"
+                    }
+                },
+                {
+                    "name": "Xiphos Engines Blueprint",
+                    "rarity": {
+                        "name": "Legendary",
+                        "value": "0.50%"
+                    }
+                }
+            ]
+        }
     },
     {
         "extra": [],
