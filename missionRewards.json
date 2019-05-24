@@ -8373,7 +8373,7 @@
         "rotations": {
             "A": [
                 {
-                    "name": "2X Hexenon",
+                    "name": "4X Hexenon",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "19.23%"
@@ -8445,7 +8445,7 @@
             ],
             "B": [
                 {
-                    "name": "4X Hexenon",
+                    "name": "8X Hexenon",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "17.86%"
@@ -8524,7 +8524,7 @@
             ],
             "C": [
                 {
-                    "name": "6X Hexenon",
+                    "name": "12X Hexenon",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "28.57%"
