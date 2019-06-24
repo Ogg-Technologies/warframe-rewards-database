@@ -8373,7 +8373,7 @@
         "rotations": {
             "A": [
                 {
-                    "name": "4X Hexenon",
+                    "name": "5X Hexenon",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "19.23%"
@@ -8436,7 +8436,7 @@
                     }
                 },
                 {
-                    "name": "Aero Agility",
+                    "name": "Aero Periphery",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "11.54%"
@@ -8445,7 +8445,7 @@
             ],
             "B": [
                 {
-                    "name": "8X Hexenon",
+                    "name": "10X Hexenon",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "17.86%"
@@ -8524,7 +8524,7 @@
             ],
             "C": [
                 {
-                    "name": "12X Hexenon",
+                    "name": "15X Hexenon",
                     "rarity": {
                         "name": "Uncommon",
                         "value": "28.57%"
@@ -8587,7 +8587,7 @@
                     }
                 },
                 {
-                    "name": "Aero Periphery",
+                    "name": "Aero Agility",
                     "rarity": {
                         "name": "Rare",
                         "value": "4.76%"
